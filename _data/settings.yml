@@ -48,16 +48,16 @@ second_sidebar_CTA:
     CTA_url2: https://mattinn.searchnorthwesthomelistings.com/search
 
 lender:
-  show_section: false
+  show_section: true
   header_text: Preferred Lender
   headshot_path: /img/lender-headshot.jpg
   logo_path: /img/lender-logo.png
-  name:
+  name: Vlad Gabor
   license_number:
   company:
   company_license_number:
-  phone:
-  email:
+  phone: 503-380-1636
+  email: Vlad.Gabor@onqfinancial.com
   url:
 
 socials:
