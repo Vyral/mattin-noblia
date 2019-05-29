@@ -3,6 +3,8 @@ layout: post
 title: Spring 2019 Portland Metro Area Market Update
 date: 2019-05-29 00:00:00
 tags:
+  - Real Estate
+  - Market Update
 excerpt: >-
   If you’re curious as to what’s happening in our market right now, you won’t
   want to miss this quick update.
