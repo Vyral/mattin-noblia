@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   If you’re curious as to what’s happening in our market right now, you won’t
   want to miss this quick update.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mattin+Noblia/Mattin+Noblia+with+MORE+Realty+-+Spring+2019+Portland+Metro+Area+Market+Update.mp4
 pullquote: >-
   Our current market is rife with opportunity, whatever your real estate goals
   may be.
