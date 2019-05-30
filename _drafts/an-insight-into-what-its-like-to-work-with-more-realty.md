@@ -4,11 +4,11 @@ title: An Insight Into What It’s Like to Work With MORE Realty
 date: 2019-05-29 00:00:00
 tags:
   - Real Estate
-  - Testimonial
 excerpt: >-
   We asked one satisfied couple about their experience working with us as they
   bought a home from out of state. Hear their glowing testimonial right here.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mattin+Noblia/An+Insight+Into+What+Its+Like+to+Work+With+MORE+Realty.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
