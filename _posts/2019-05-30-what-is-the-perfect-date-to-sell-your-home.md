@@ -7,13 +7,13 @@ tags:
   - Home Seller Tips
 excerpt: The best days to list your home for sale are June 21 and June 28. Here’s why.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Mattin+Noblia/Mattin+Noblia+with+MORE+Realty.mp4
+  https://vyralmarketing.s3.amazonaws.com/Mattin+Noblia/What+Is+the+Perfect+Date+to+Sell+Your+Home_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/5-30-day-np.jpg
-youtube_code: j37F7-VIjiw
+youtube_code: C6I25AisOFA
 ---
 
 {% include youtube.html %}
