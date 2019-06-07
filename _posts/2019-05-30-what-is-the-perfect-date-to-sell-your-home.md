@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/5-30-day-np.jpg
+youtube_alternate_image: /uploads/6-7-best-day-np.jpg
 youtube_code: C6I25AisOFA
 ---
 
