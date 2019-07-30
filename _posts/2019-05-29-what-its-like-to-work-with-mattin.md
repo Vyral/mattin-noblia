@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What It’s Like to Work With Mattin Realty
+title: What It’s Like to Work With Mattin
 date: 2019-05-29 00:00:00
 tags:
   - Real Estate
